@@ -1,0 +1,10 @@
+项目experiment1&2中的两个.py文件分别代表实验一和实验二结果
+
+项目experiment3中：
+mine.py为全样本训练集
+mine10.py为10%样本训练集
+mine30.py为30%全样本训练集
+mine50.py为50%全样本训练集
+mine70.py为70%全样本训练集
+mineJJ.py为10%样本训练集带卷积
+utils.py为画图工具类，打包在这个py文件中
